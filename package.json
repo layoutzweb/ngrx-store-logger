@@ -19,20 +19,20 @@
   },
   "homepage": "https://github.com/btroncone/ngrx-store-logger#readme",
   "peerDependencies": {
-    "@ngrx/store": "^4.0.0 || ^5.0.0 || ^6.0.0"
+    "@ngrx/store": ">=4.0.0"
   },
   "devDependencies": {
-    "@angular/core": "^2.4.7",
+    "@angular/core": "^7.2.3",
     "@ngrx/core": "^1.2.0",
-    "@ngrx/store": "^2.2.1",
-    "es6-promise": "^3.0.2",
-    "es6-shim": "^0.35.0",
-    "reflect-metadata": "0.1.10",
-    "rimraf": "^2.5.1",
-    "tslint": "^3.4.0",
-    "typescript": "^2.1.4",
-    "rxjs": "^5.4.0",
-    "zone.js": "^0.7.7"
+    "@ngrx/store": "^7.2.0",
+    "es6-promise": "^4.2.5",
+    "es6-shim": "^0.35.4",
+    "reflect-metadata": "^0.1.13",
+    "rimraf": "^2.6.3",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.1",
+    "rxjs": "^6.4.0",
+    "zone.js": "^0.8.29"
   },
   "typings": "./dist/index.d.ts"
 }
